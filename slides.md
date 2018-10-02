@@ -23,7 +23,7 @@ _Revue 2.0_
 
   1. Un répertoire des écrivains, photographes et œuvres « photolittéraires » (OMEKA) - *2012*
   2. Un espace pour une « cartographie » théorique et critique de la photolittérature : dossiers, articles, bibliographie critique, annonces... (Wordpress) - *2012*
-  3. La revue Internationale de Photolittérature (Wordpress) - *2017*
+  3. La revue Internationale de Photolittérature : au croisement des études littéraires, théories des médias, histoire de l'art... (Wordpress) - *2017*
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -50,6 +50,11 @@ _Revue 2.0_
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+<!-- .slide: data-background-image="img/chaineEditoPhlit.jpg" data-background-size="contain"-->
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 <!-- .slide: data-background-image="img/logo.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
